@@ -7,6 +7,15 @@ The Firefox Multi-Account Containers extension lets you carve out a separate box
 Learn more about Multi-Account Containers in
 [our end-user documentation][enduser].
 
+## Custom install 
+
+Why? https://support.mozilla.org/en-US/kb/add-on-signing-in-firefox
+Download Nightly or Developer version at https://www.mozilla.org/en-US/firefox/channel/desktop/
+
+1. Type `about:config` in the address bar.
+2. Set `xpinstall.signatures.required` to `false`
+3. Set `extensions.langpacks.signatures.required` to `false`
+
 ## Contributing
 
 Everyone is welcome to contribute to Multi-Account Containers. To learn how
