@@ -17,6 +17,8 @@ Download Nightly or Developer version at https://www.mozilla.org/en-US/firefox/c
 2. Set `xpinstall.signatures.required` to `false`
 3. Set `extensions.langpacks.signatures.required` to `false`
 
+Alternative: `about:preferences#containers`
+
 ## Contributing
 
 Everyone is welcome to contribute to Multi-Account Containers. To learn how
